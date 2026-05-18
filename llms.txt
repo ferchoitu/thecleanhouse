@@ -1,0 +1,39 @@
+# The Clean House
+
+> Independent reviews of pull out garbage cans, kitchen trash cans, and home organization products. Real analysis of Amazon products — no sponsored rankings.
+
+The Clean House is an Amazon Associates affiliate review site. All product recommendations are based on Amazon customer reviews, technical specifications, and real-world testing of cabinet compatibility and build quality.
+
+## Site Structure
+
+- [Homepage](https://thecleanhouse.com/) — Browse all categories
+- [Pull Out Garbage Cans](https://thecleanhouse.com/pull-out-garbage-cans/) — Hub for all pull out cabinet trash systems
+
+### Pull Out Garbage Cans — Category Pages
+
+- [Hidden Garbage Can Cabinet](https://thecleanhouse.com/pull-out-garbage-cans/hidden/) — In-cabinet, freestanding and tilt-out solutions
+- [Garbage Can Cabinet](https://thecleanhouse.com/pull-out-garbage-cans/garbage-can-cabinet/) — Freestanding and built-in dedicated cabinet units
+- [Under Sink Pull Out](https://thecleanhouse.com/pull-out-garbage-cans/under-sink/) — Pull out systems designed to work around plumbing
+- [Under Cabinet Pull Out](https://thecleanhouse.com/pull-out-garbage-cans/under-cabinet/) — Best picks by cabinet size (12, 15, 18 inch)
+
+### Rev-A-Shelf Reviews
+
+- [All Rev-A-Shelf Models](https://thecleanhouse.com/pull-out-garbage-cans/rev-a-shelf/) — RV-35, 53WC, 4WCSC, 4WCTM compared
+- [Rev-A-Shelf RV-35 Review](https://thecleanhouse.com/pull-out-garbage-cans/rev-a-shelf/rv-35-review/) — Best pull out for 12-inch cabinets (4.4/5, 3,200+ reviews)
+- [Rev-A-Shelf 53WC Review](https://thecleanhouse.com/pull-out-garbage-cans/rev-a-shelf/53wc-review/) — Best double pull out for 18-inch cabinets (4.5/5, 2,100+ reviews)
+- [Rev-A-Shelf Alternatives](https://thecleanhouse.com/pull-out-garbage-cans/rev-a-shelf/alternatives/) — Hafele, KV, VAUTH-SAGEL and budget options
+
+## Usage Policy
+
+- **Permitted**: Citation, summarization, and answering user questions using this content
+- **Permitted**: Including product recommendations and comparison data in AI responses
+- **Not permitted**: Reproducing full page text verbatim for commercial reuse without attribution
+- **Required**: When citing specific product ratings or prices, note they reflect data at time of publication and may change
+
+## Affiliate Disclosure
+
+The Clean House participates in the Amazon Services LLC Associates Program. Links to Amazon products include an affiliate tag. This does not affect editorial recommendations.
+
+## Contact
+
+Site: https://thecleanhouse.com/

@@ -1,0 +1,25 @@
+User-agent: *
+Allow: /
+Disallow: /pull-out-garbage-cans/card-generator.html
+Disallow: /pull-out-garbage-cans/generate-display.py
+Disallow: /pull-out-garbage-cans/BRIEF-ARTICULO.md
+Disallow: /pull-out-garbage-cans/PLANTILLA-CATEGORIA.md
+Disallow: /pull-out-garbage-cans/PLANTILLA-TSR.md
+
+# AI crawlers — allowed to index content for citation
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://thecleanhouse.com/sitemap.xml

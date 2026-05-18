@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://thecleanhouse.com/</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Silo Hub — Pull Out Garbage Cans -->
+  <url>
+    <loc>https://thecleanhouse.com/pull-out-garbage-cans/</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Category pages (level 2) -->
+  <url>
+    <loc>https://thecleanhouse.com/pull-out-garbage-cans/hidden/</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://thecleanhouse.com/pull-out-garbage-cans/garbage-can-cabinet/</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://thecleanhouse.com/pull-out-garbage-cans/under-sink/</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://thecleanhouse.com/pull-out-garbage-cans/under-cabinet/</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Rev-A-Shelf sub-hub -->
+  <url>
+    <loc>https://thecleanhouse.com/pull-out-garbage-cans/rev-a-shelf/</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Product Reviews (level 3) -->
+  <url>
+    <loc>https://thecleanhouse.com/pull-out-garbage-cans/rev-a-shelf/rv-35-review/</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://thecleanhouse.com/pull-out-garbage-cans/rev-a-shelf/53wc-review/</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://thecleanhouse.com/pull-out-garbage-cans/rev-a-shelf/alternatives/</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+</urlset>
